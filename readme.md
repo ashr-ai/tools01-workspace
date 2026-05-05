@@ -12,6 +12,8 @@ Créer un fichier README.md et le déposer sur GitHub
 git init
 git add .
 git commit -m "message"
+git status
+git push -u origin nom-de-dossier
 ```
 
 ## Auteur
